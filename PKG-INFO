@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: eoxmagmod
+Version: 0.9.5
+Summary: Earth magnetic field utilities.
+Home-page: UNKNOWN
+Author: Martin Paces
+Author-email: martin.paces@eox.at
+License: EOX licence (MIT style)
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Topic :: Utilities
